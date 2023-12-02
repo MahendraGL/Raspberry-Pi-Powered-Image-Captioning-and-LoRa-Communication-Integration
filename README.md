@@ -1,6 +1,6 @@
 # Raspberry-Pi-Powered-Image-Captioning-and-LoRa-Communication-Integration
 This project introduces an IoT system comprising a Raspberry Pi Model 4B, LoRa communication technology, and a microphone for both speech recognition and auditory input. These components work collaboratively to execute tasks of real-time image caption generation, caption communication, and the conversion of captions into audio files. The audio files are then played back in real time, transforming the system into a comprehensive solution for image analysis and auditory feedback.
-# The workflow of the project is as follows:
+# The Workflow of the Project is as Follows:
 To begin, we establish two distinct LoRa nodes, denoted as node-1 and node-2, each assigned a unique address. These nodes are constructed utilizing Raspberry Pi Model 4B boards, equipped
 with LoRa hat components for facilitating Long Range Communication.
 - Node-1 is designated as the transmitter, responsible for sending data, while Node-2 functions as the receiver, tasked with capturing and processing the transmitted information.
